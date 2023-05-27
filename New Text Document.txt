@@ -1,0 +1,16 @@
+<HTML>
+<body>
+<head>
+</head>
+<table border="1" bgcolor="green" bordercolor="black">
+<tr align ="center">
+<td>A</td>
+<td>2</td>
+</tr>
+<tr align ="center">
+<td>B</td>
+<td>4</td>
+</tr>
+</table>
+</body>
+</HTML>
